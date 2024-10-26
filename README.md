@@ -17,7 +17,3 @@ Follow these steps to set up **Army-MS** locally:
    ```bash
    git clone https://github.com/Deviprasad333/Army-MS.git
 cd Army-MS
-# Replace with your package manager (npm, pip, etc.)
-# Add commands specific to your application (e.g., npm start)
-
-This structure provides clear sections and helps engage readers with emojis and concise descriptions. Feel free to customize further based on specific details of your project!
